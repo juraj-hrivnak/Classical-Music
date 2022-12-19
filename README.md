@@ -1,5 +1,3 @@
-# Classical-Music
-
 # Baroko
 
 #### **┕━━** **Johann Sebastian Bach** **━━** *1685 / 1750*
