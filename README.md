@@ -2,7 +2,7 @@
 
 # Baroko
 
-#### **┕━▷** **Johann Sebastian Bach**
+#### **┕━━** **Johann Sebastian Bach**
 
 - Brandenburské koncerty
 - Matúšove pašie
@@ -12,35 +12,35 @@
 - Partita pre Husle č.2 a 3
 - Goldbergove variácie
 
-#### **┕━▷** **Georg Friedrich Händel**
+#### **┕━━** **Georg Friedrich Händel**
 
-#### **┕━▷** **Antonio Vivaldi**
+#### **┕━━** **Antonio Vivaldi**
 
-#### **┕━▷** **Claudio Monteverdi**
+#### **┕━━** **Claudio Monteverdi**
 
-#### **┕━▷** **Georg Philipp Telemann**
+#### **┕━━** **Georg Philipp Telemann**
 
-#### **┕━▷** **Domenico Scarlatti**
+#### **┕━━** **Domenico Scarlatti**
 
-#### **┕━▷** **Jean-Philippe Rameau**
+#### **┕━━** **Jean-Philippe Rameau**
 
-#### **┕━▷** **Johann Pachelbel**
+#### **┕━━** **Johann Pachelbel**
 
-#### **┕━▷** **Henry Purcell**
+#### **┕━━** **Henry Purcell**
 
-#### **┕━▷** **Arcangelo Corelli**
+#### **┕━━** **Arcangelo Corelli**
 
-#### **┕━▷** **Giovanni Battista Pergolesi**
+#### **┕━━** **Giovanni Battista Pergolesi**
 
-#### **┕━▷** **Jean-Baptiste Lully**
+#### **┕━━** **Jean-Baptiste Lully**
 
-#### **┕━▷** **Tomaso Albinoni**
+#### **┕━━** **Tomaso Albinoni**
 
 ***
 
 # Klasicizmus
 
-#### **┕━▷** **Beethoven**
+#### **┕━━** **Beethoven**
 
 - Eroica
 - Osudová
@@ -52,7 +52,7 @@
 - Waldstein sonáta
 - Velká Fúga
 
-#### **┕━▷** **Mozart**
+#### **┕━━** **Mozart**
 
 - Figarova Svadba
 - Don Giovanni
@@ -64,7 +64,7 @@
 - Klavírna sonáta č. 11
 - Klavírny koncert č. 21
 
-#### **┕━▷** **Haydn**
+#### **┕━━** **Haydn**
 
 - 45, 98, 100, 103, 104 Symfónia
 - Stvorenie
@@ -78,46 +78,46 @@
 
 ## Raný romantizmus
 
-#### **┕━▷** **Fryderyk Chopin**
+#### **┕━━** **Fryderyk Chopin**
 
-#### **┕━▷** **Franz Schubert**
+#### **┕━━** **Franz Schubert**
 
-#### **┕━▷** **Carl Maria von Weber**
+#### **┕━━** **Carl Maria von Weber**
 
-#### **┕━▷** **Felix Mendelssohn-Bartholdy**
+#### **┕━━** **Felix Mendelssohn-Bartholdy**
 
-#### **┕━▷** **Robert Schumann**
+#### **┕━━** **Robert Schumann**
 
 ## Novoromantizmus
 
-#### **┕━▷** **Hector Berlioz**
+#### **┕━━** **Hector Berlioz**
 
-#### **┕━▷** **Ferenc Liszt**
+#### **┕━━** **Ferenc Liszt**
 
-#### **┕━▷** **Richard Wagner**
+#### **┕━━** **Richard Wagner**
 
 ## Neskorý romantizmus
 
-#### **┕━▷** **Richard Strauss**
+#### **┕━━** **Richard Strauss**
 
-#### **┕━▷** **Gustav Mahler**
+#### **┕━━** **Gustav Mahler**
 
-#### **┕━▷** **Hugo Wolf**
+#### **┕━━** **Hugo Wolf**
 
-#### **┕━▷** **Max Reger**
+#### **┕━━** **Max Reger**
 
 ## Klasicko-romantická syntéza
 
-#### **┕━▷** **Johannes Brahms**
+#### **┕━━** **Johannes Brahms**
 
-#### **┕━▷** **Antonín Dvořák**
+#### **┕━━** **Antonín Dvořák**
 
-#### **┕━▷** **Bedřich Smetana**
+#### **┕━━** **Bedřich Smetana**
 
-#### **┕━▷** **Piotr Iľjič Čajkovskij**
+#### **┕━━** **Piotr Iľjič Čajkovskij**
 
-#### **┕━▷** **Max Bruch**
+#### **┕━━** **Max Bruch**
 
-#### **┕━▷** **Anton Bruckner**
+#### **┕━━** **Anton Bruckner**
 
-#### **┕━▷** **César Franck**
+#### **┕━━** **César Franck**
