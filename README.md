@@ -2,7 +2,7 @@
 
 # Baroko
 
-#### **┕━━** **Johann Sebastian Bach**
+#### **┕━━** **Johann Sebastian Bach** **━━** *1685 / 1750*
 
 - Brandenburské koncerty
 - Matúšove pašie
@@ -12,9 +12,9 @@
 - Partita pre Husle č.2 a 3
 - Goldbergove variácie
 
-#### **┕━━** **Georg Friedrich Händel**
+#### **┕━━** **Georg Friedrich Händel** **━━** *1685 / 1759*
 
-#### **┕━━** **Antonio Vivaldi**
+#### **┕━━** **Antonio Vivaldi** **━━** *1678 / 1741*
 
 #### **┕━━** **Claudio Monteverdi**
 
