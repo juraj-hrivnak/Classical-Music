@@ -1,10 +1,8 @@
 # Classical-Music
 
-***
+# Baroko
 
-## Baroko
-
-#### Johann Sebastian Bach
+#### **┗━▸** **Johann Sebastian Bach**
 
 - Brandenburské koncerty
 - Matúšove pašie
@@ -14,25 +12,36 @@
 - Partita pre Husle č.2 a 3
 - Goldbergove variácie
 
+#### **┗━▸** **Georg Friedrich Händel**
 
-#### Georg Friedrich Händel
-#### Antonio Vivaldi
-#### Claudio Monteverdi
-#### Georg Philipp Telemann
-#### Domenico Scarlatti
-#### Jean-Philippe Rameau
-#### Johann Pachelbel
-#### Henry Purcell
-#### Arcangelo Corelli
-#### Giovanni Battista Pergolesi
-#### Jean-Baptiste Lully
-#### Tomaso Albinoni
+#### **┗━▸** **Antonio Vivaldi**
+
+#### **┗━▸** **Claudio Monteverdi**
+
+#### **┗━▸** **Georg Philipp Telemann**
+
+#### **┗━▸** **Domenico Scarlatti**
+
+#### **┗━▸** **Jean-Philippe Rameau**
+
+#### **┗━▸** **Johann Pachelbel**
+
+#### **┗━▸** **Henry Purcell**
+
+#### **┗━▸** **Arcangelo Corelli**
+
+#### **┗━▸** **Giovanni Battista Pergolesi**
+
+#### **┗━▸** **Jean-Baptiste Lully**
+
+#### **┗━▸** **Tomaso Albinoni**
 
 ***
 
-## Klasicizmus
+# Klasicizmus
 
-#### Beethoven
+#### **┗━▸** **Beethoven**
+
 - Eroica
 - Osudová
 - Pastorálna
@@ -43,7 +52,8 @@
 - Waldstein sonáta
 - Velká Fúga
 
-#### Mozart
+#### **┗━▸** **Mozart**
+
 - Figarova Svadba
 - Don Giovanni
 - Čarovná Flauta
@@ -54,7 +64,8 @@
 - Klavírna sonáta č. 11
 - Klavírny koncert č. 21
 
-#### Haydn
+#### **┗━▸** **Haydn**
+
 - 45, 98, 100, 103, 104 Symfónia
 - Stvorenie
 - Koncert pre trúbku
@@ -63,35 +74,50 @@
 
 ***
 
-## Romantizmus
+# Romantizmus
 
-### Raný romantizmus
+## Raný romantizmus
 
-#### Fryderyk Chopin
-#### Franz Schubert
-#### Carl Maria von Weber
-#### Felix Mendelssohn-Bartholdy
-#### Robert Schumann
+#### **┗━▸** **Fryderyk Chopin**
 
-### Novoromantizmus
+#### **┗━▸** **Franz Schubert**
 
-#### Hector Berlioz
-#### Ferenc Liszt
-#### Richard Wagner
+#### **┗━▸** **Carl Maria von Weber**
 
-### Neskorý romantizmus
+#### **┗━▸** **Felix Mendelssohn-Bartholdy**
 
-#### Richard Strauss
-#### Gustav Mahler
-#### Hugo Wolf
-#### Max Reger
+#### **┗━▸** **Robert Schumann**
 
-### Klasicko-romantická syntéza
+## Novoromantizmus
 
-#### Johannes Brahms
-#### Antonín Dvořák
-#### Bedřich Smetana
-#### Piotr Iľjič Čajkovskij
-#### Max Bruch
-#### Anton Bruckner
-#### César Franck
+#### **┗━▸** **Hector Berlioz**
+
+#### **┗━▸** **Ferenc Liszt**
+
+#### **┗━▸** **Richard Wagner**
+
+## Neskorý romantizmus
+
+#### **┗━▸** **Richard Strauss**
+
+#### **┗━▸** **Gustav Mahler**
+
+#### **┗━▸** **Hugo Wolf**
+
+#### **┗━▸** **Max Reger**
+
+## Klasicko-romantická syntéza
+
+#### **┗━▸** **Johannes Brahms**
+
+#### **┗━▸** **Antonín Dvořák**
+
+#### **┗━▸** **Bedřich Smetana**
+
+#### **┗━▸** **Piotr Iľjič Čajkovskij**
+
+#### **┗━▸** **Max Bruch**
+
+#### **┗━▸** **Anton Bruckner**
+
+#### **┗━▸** **César Franck**
