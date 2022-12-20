@@ -34,7 +34,7 @@
 | * 1683 † 1764 |
 |---------------|
 
-- [Le Rappel des oiseaux](https://www.youtube.com/watch?v=LnulGNbPgnc)
+- Le Rappel des oiseaux [♫](https://www.youtube.com/watch?v=LnulGNbPgnc)
 
 #### **┕━━** **Johann Pachelbel** **━━━**
 
