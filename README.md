@@ -135,3 +135,11 @@
 #### **┕━━** **César Franck** **━━━**
 
 ***
+
+# Impresionizmus
+
+# Expresionizmus
+
+# Folklorizmus
+
+# Neoklasicizmus
