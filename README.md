@@ -138,8 +138,32 @@
 
 # Impresionizmus
 
+    Claude Debussy
+    Maurice Ravel
+    Albert Roussel
+    Manuel de Falla
+    Ottorino Respighi
+    Alexandr Nikolajevič Skriabin
+    Jozef Suk
+
 # Expresionizmus
+
+    Alban Berg - Rakúšan
+    Ernst Křenek - Rakúšan
+    Arnold Schönberg - Rakúšan
+    Anton Webern
+    Paul Hindemith - Nemec
+    Alexandr Nikolajevič Skrjabin - Rus
+    Béla Bartók - Maďar
+    Alois Hába - Čech
 
 # Folklorizmus
 
 # Neoklasicizmus
+
+    Sergej Sergejevič Prokofiev (1891-1953)
+    Igor Fiodorovič Stravinskij (1882-1971)
+    Alfredo casella (1883-1947)
+    Paul Hindemith (1895-1963)
+    Bohuslav Martinů (1890-1959)
+    Erik Satie (1866-1925)
