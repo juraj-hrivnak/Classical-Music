@@ -1,6 +1,9 @@
 # Baroko
 
-#### **┕━━** **Johann Sebastian Bach** **━━** *1685 / 1750*
+#### **┕━━** **Johann Sebastian Bach** **━━━**
+
+| * 1685 † 1750 |
+|---------------|
 
 - Brandenburské koncerty
 - Matúšove pašie
@@ -10,35 +13,46 @@
 - Partita pre Husle č.2 a 3
 - Goldbergove variácie
 
-#### **┕━━** **Georg Friedrich Händel** **━━** *1685 / 1759*
+#### **┕━━** **Georg Friedrich Händel** **━━━**
 
-#### **┕━━** **Antonio Vivaldi** **━━** *1678 / 1741*
+| * 1685 † 1759 |
+|---------------|
 
-#### **┕━━** **Claudio Monteverdi**
+#### **┕━━** **Antonio Vivaldi** **━━━**
 
-#### **┕━━** **Georg Philipp Telemann**
+| * 1678 † 1741 |
+|---------------|
 
-#### **┕━━** **Domenico Scarlatti**
+#### **┕━━** **Claudio Monteverdi** **━━━**
 
-#### **┕━━** **Jean-Philippe Rameau**
+#### **┕━━** **Georg Philipp Telemann** **━━━**
 
-#### **┕━━** **Johann Pachelbel**
+#### **┕━━** **Domenico Scarlatti** **━━━**
 
-#### **┕━━** **Henry Purcell**
+#### **┕━━** **Jean-Philippe Rameau** **━━━**
 
-#### **┕━━** **Arcangelo Corelli**
+| * 1683 † 1764 |
+|---------------|
 
-#### **┕━━** **Giovanni Battista Pergolesi**
+- [Le Rappel des oiseaux](https://www.youtube.com/watch?v=LnulGNbPgnc)
 
-#### **┕━━** **Jean-Baptiste Lully**
+#### **┕━━** **Johann Pachelbel** **━━━**
 
-#### **┕━━** **Tomaso Albinoni**
+#### **┕━━** **Henry Purcell** **━━━**
+
+#### **┕━━** **Arcangelo Corelli** **━━━**
+
+#### **┕━━** **Giovanni Battista Pergolesi** **━━━**
+
+#### **┕━━** **Jean-Baptiste Lully** **━━━**
+
+#### **┕━━** **Tomaso Albinoni** **━━━**
 
 ***
 
 # Klasicizmus
 
-#### **┕━━** **Beethoven**
+#### **┕━━** **Beethoven** **━━━**
 
 - Eroica
 - Osudová
@@ -50,7 +64,7 @@
 - Waldstein sonáta
 - Velká Fúga
 
-#### **┕━━** **Mozart**
+#### **┕━━** **Mozart** **━━━**
 
 - Figarova Svadba
 - Don Giovanni
@@ -62,7 +76,7 @@
 - Klavírna sonáta č. 11
 - Klavírny koncert č. 21
 
-#### **┕━━** **Haydn**
+#### **┕━━** **Haydn** **━━━**
 
 - 45, 98, 100, 103, 104 Symfónia
 - Stvorenie
@@ -76,48 +90,48 @@
 
 ## Raný romantizmus
 
-#### **┕━━** **Fryderyk Chopin**
+#### **┕━━** **Fryderyk Chopin** **━━━**
 
-#### **┕━━** **Franz Schubert**
+#### **┕━━** **Franz Schubert** **━━━**
 
-#### **┕━━** **Carl Maria von Weber**
+#### **┕━━** **Carl Maria von Weber** **━━━**
 
-#### **┕━━** **Felix Mendelssohn-Bartholdy**
+#### **┕━━** **Felix Mendelssohn-Bartholdy** **━━━**
 
-#### **┕━━** **Robert Schumann**
+#### **┕━━** **Robert Schumann** **━━━**
 
 ## Novoromantizmus
 
-#### **┕━━** **Hector Berlioz**
+#### **┕━━** **Hector Berlioz** **━━━**
 
-#### **┕━━** **Ferenc Liszt**
+#### **┕━━** **Ferenc Liszt** **━━━**
 
-#### **┕━━** **Richard Wagner**
+#### **┕━━** **Richard Wagner** **━━━**
 
 ## Neskorý romantizmus
 
-#### **┕━━** **Richard Strauss**
+#### **┕━━** **Richard Strauss** **━━━**
 
-#### **┕━━** **Gustav Mahler**
+#### **┕━━** **Gustav Mahler** **━━━**
 
-#### **┕━━** **Hugo Wolf**
+#### **┕━━** **Hugo Wolf** **━━━**
 
-#### **┕━━** **Max Reger**
+#### **┕━━** **Max Reger** **━━━**
 
 ## Klasicko-romantická syntéza
 
-#### **┕━━** **Johannes Brahms**
+#### **┕━━** **Johannes Brahms** **━━━**
 
-#### **┕━━** **Antonín Dvořák**
+#### **┕━━** **Antonín Dvořák** **━━━**
 
-#### **┕━━** **Bedřich Smetana**
+#### **┕━━** **Bedřich Smetana** **━━━**
 
-#### **┕━━** **Piotr Iľjič Čajkovskij**
+#### **┕━━** **Piotr Iľjič Čajkovskij** **━━━**
 
-#### **┕━━** **Max Bruch**
+#### **┕━━** **Max Bruch** **━━━**
 
-#### **┕━━** **Anton Bruckner**
+#### **┕━━** **Anton Bruckner** **━━━**
 
-#### **┕━━** **César Franck**
+#### **┕━━** **César Franck** **━━━**
 
 ***
