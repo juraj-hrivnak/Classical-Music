@@ -136,7 +136,7 @@
 
 ***
 
-# 20. Storočie
+# 20. Storočie [🔗](https://en.wikipedia.org/wiki/20th-century_classical_music)
 
 ## Impresionizmus
 
