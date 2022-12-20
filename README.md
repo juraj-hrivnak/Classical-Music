@@ -136,34 +136,75 @@
 
 ***
 
-# Impresionizmus
+# 20. Storočie
 
-    Claude Debussy
-    Maurice Ravel
-    Albert Roussel
-    Manuel de Falla
-    Ottorino Respighi
-    Alexandr Nikolajevič Skriabin
-    Jozef Suk
+## Impresionizmus
 
-# Expresionizmus
+#### **┕━━** **Claude Debussy** **━━━**
 
-    Alban Berg - Rakúšan
-    Ernst Křenek - Rakúšan
-    Arnold Schönberg - Rakúšan
-    Anton Webern
-    Paul Hindemith - Nemec
-    Alexandr Nikolajevič Skrjabin - Rus
-    Béla Bartók - Maďar
-    Alois Hába - Čech
+#### **┕━━** **Maurice Ravel** **━━━**
 
-# Folklorizmus
+#### **┕━━** **Albert Roussel** **━━━**
 
-# Neoklasicizmus
+#### **┕━━** **Manuel de Falla** **━━━**
 
-    Sergej Sergejevič Prokofiev (1891-1953)
-    Igor Fiodorovič Stravinskij (1882-1971)
-    Alfredo casella (1883-1947)
-    Paul Hindemith (1895-1963)
-    Bohuslav Martinů (1890-1959)
-    Erik Satie (1866-1925)
+#### **┕━━** **Ottorino Respighi** **━━━**
+
+#### **┕━━** **Alexandr Nikolajevič Skriabin** **━━━**
+
+#### **┕━━** **Jozef Suk** **━━━**
+
+## Expresionizmus
+
+#### **┕━━** **Alexandr Nikolajevič Skrjabin** **━━━**
+
+#### **┕━━** **Arnold Schönberg** **━━━**
+
+#### **┕━━** **Alban Berg** **━━━**
+
+#### **┕━━** **Anton Webern** **━━━**
+
+#### **┕━━** **Paul Hindemith** **━━━**
+
+#### **┕━━** **Ernst Křenek** **━━━**
+
+#### **┕━━** **Béla Bartók** **━━━**
+
+#### **┕━━** **Alois Hába** **━━━**
+
+## Folklorizmus
+
+## Neoklasicizmus
+
+#### **┕━━** **Igor Fiodorovič Stravinskij** **━━━**
+
+| * 1882 † 1971 |
+|---------------|
+
+| *  †  |
+|---------------|
+
+#### **┕━━** **Sergej Sergejevič Prokofiev** **━━━**
+
+| * 1891 † 1953 |
+|---------------|
+
+#### **┕━━** **Bohuslav Martinů** **━━━**
+
+| * 1890 † 1959 |
+|---------------|
+
+#### **┕━━** **Erik Satie** **━━━**
+
+| * 1866 † 1925 |
+|---------------|
+
+#### **┕━━** **Paul Hindemith²** **━━━**
+
+| * 1895 † 1963 |
+|---------------|
+
+#### **┕━━** **Alfredo casella** **━━━**
+
+| * 1883 † 1947 |
+|---------------|
