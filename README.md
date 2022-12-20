@@ -1,4 +1,4 @@
-# Baroko
+# Barok
 
 #### **┕━━** **Johann Sebastian Bach** **━━━**
 
