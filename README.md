@@ -1,3 +1,9 @@
+# Classical Music
+
+This repository contains now only contains compositors and their compositions.
+The idea is to make a website that would contain this information. (Currently work-in-progress.)
+The following text is written in the Slovak language. English translation will have to be made.
+
 # Barok
 
 #### **┕━━** **Johann Sebastian Bach** **━━━**
